@@ -1,0 +1,11 @@
+c35delg_cds,Pathogenic
+GJB2_c.11GtoA,Benign
+GJB2_c.24GtoA,Benign
+GJB2_c.79GtoA,Benign
+GJB2_c.101TtoC,Pathogenic
+GJB2_c.109GtoA,Pathogenic
+GJB2_C.176_177delGC,Pathogenic
+GJB2_C.227G_to_A,Pathogenic
+GJB2_C.319C_to_T,Benign
+GJB2_c.511GtoA,Benign
+GJB2_C.667C_to_T,Pathogenic
